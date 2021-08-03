@@ -16,7 +16,7 @@ refatorei o código, separando cada parte em um componente, afim de facilitar a 
 ## ⛏ Tecnologias
 
 - [React](https://pt-br.reactjs.org/)
-- [Typescript]https://www.typescriptlang.org/)
+- [Typescript](https://www.typescriptlang.org/)
 - [Sass](https://sass-lang.com/)
 - [Axios](https://axios-http.com/)
 
