@@ -20,6 +20,27 @@ refatorei o código, separando cada parte em um componente, afim de facilitar a 
 - [Sass](https://sass-lang.com/)
 - [Axios](https://axios-http.com/)
 
+## 🚀 Instalação
+
+```bash
+# Clone o repositório
+$ git clone https://github.com/AngeloVSO/watch-me
+
+# Entre na pasta do projeto
+$ cd watch-me
+
+# Instale as dependências
+$ npm install / yarn
+
+# Execute o server JSON
+$ npm run server / yarn server
+
+# Execute a aplicação
+$ npm run dev / yarn dev
+
+# Abra http://localhost:8080 no seu navegador para ver a aplicação!
+```
+
 ## Feito por:
 <table>
   <tr>
